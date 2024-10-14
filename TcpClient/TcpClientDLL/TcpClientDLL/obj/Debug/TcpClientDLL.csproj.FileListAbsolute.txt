@@ -1,0 +1,6 @@
+C:\Work\DLL\TcpDLL\TcpClient\TcpClientDLL\TcpClientDLL\bin\Debug\TcpClientDLL.dll
+C:\Work\DLL\TcpDLL\TcpClient\TcpClientDLL\TcpClientDLL\bin\Debug\TcpClientDLL.pdb
+C:\Work\DLL\TcpDLL\TcpClient\TcpClientDLL\TcpClientDLL\obj\Debug\TcpClientDLL.csproj.AssemblyReference.cache
+C:\Work\DLL\TcpDLL\TcpClient\TcpClientDLL\TcpClientDLL\obj\Debug\TcpClientDLL.csproj.CoreCompileInputs.cache
+C:\Work\DLL\TcpDLL\TcpClient\TcpClientDLL\TcpClientDLL\obj\Debug\TcpClientDLL.dll
+C:\Work\DLL\TcpDLL\TcpClient\TcpClientDLL\TcpClientDLL\obj\Debug\TcpClientDLL.pdb
