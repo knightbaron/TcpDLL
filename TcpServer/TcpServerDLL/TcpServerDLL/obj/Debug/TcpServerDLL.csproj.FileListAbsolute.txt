@@ -1,0 +1,6 @@
+C:\Work\DLL\TcpDLL\TcpServer\TcpServerDLL\TcpServerDLL\bin\Debug\TcpServerDLL.dll
+C:\Work\DLL\TcpDLL\TcpServer\TcpServerDLL\TcpServerDLL\bin\Debug\TcpServerDLL.pdb
+C:\Work\DLL\TcpDLL\TcpServer\TcpServerDLL\TcpServerDLL\obj\Debug\TcpServerDLL.csproj.AssemblyReference.cache
+C:\Work\DLL\TcpDLL\TcpServer\TcpServerDLL\TcpServerDLL\obj\Debug\TcpServerDLL.csproj.CoreCompileInputs.cache
+C:\Work\DLL\TcpDLL\TcpServer\TcpServerDLL\TcpServerDLL\obj\Debug\TcpServerDLL.dll
+C:\Work\DLL\TcpDLL\TcpServer\TcpServerDLL\TcpServerDLL\obj\Debug\TcpServerDLL.pdb
